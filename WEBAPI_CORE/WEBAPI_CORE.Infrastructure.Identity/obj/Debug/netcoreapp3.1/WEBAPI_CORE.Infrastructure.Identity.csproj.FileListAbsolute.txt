@@ -1,0 +1,17 @@
+C:\ProjetosPes\APICore\WEBAPI_CORE\WEBAPI_CORE\WEBAPI_CORE.Infrastructure.Identity\bin\Debug\netcoreapp3.1\WEBAPI_CORE.Infrastructure.Identity.deps.json
+C:\ProjetosPes\APICore\WEBAPI_CORE\WEBAPI_CORE\WEBAPI_CORE.Infrastructure.Identity\bin\Debug\netcoreapp3.1\WEBAPI_CORE.Infrastructure.Identity.runtimeconfig.json
+C:\ProjetosPes\APICore\WEBAPI_CORE\WEBAPI_CORE\WEBAPI_CORE.Infrastructure.Identity\bin\Debug\netcoreapp3.1\WEBAPI_CORE.Infrastructure.Identity.runtimeconfig.dev.json
+C:\ProjetosPes\APICore\WEBAPI_CORE\WEBAPI_CORE\WEBAPI_CORE.Infrastructure.Identity\bin\Debug\netcoreapp3.1\WEBAPI_CORE.Infrastructure.Identity.dll
+C:\ProjetosPes\APICore\WEBAPI_CORE\WEBAPI_CORE\WEBAPI_CORE.Infrastructure.Identity\bin\Debug\netcoreapp3.1\WEBAPI_CORE.Infrastructure.Identity.pdb
+C:\ProjetosPes\APICore\WEBAPI_CORE\WEBAPI_CORE\WEBAPI_CORE.Infrastructure.Identity\bin\Debug\netcoreapp3.1\WEBAPI_CORE.Application.dll
+C:\ProjetosPes\APICore\WEBAPI_CORE\WEBAPI_CORE\WEBAPI_CORE.Infrastructure.Identity\bin\Debug\netcoreapp3.1\WEBAPI_CORE.Domain.dll
+C:\ProjetosPes\APICore\WEBAPI_CORE\WEBAPI_CORE\WEBAPI_CORE.Infrastructure.Identity\bin\Debug\netcoreapp3.1\WEBAPI_CORE.Application.pdb
+C:\ProjetosPes\APICore\WEBAPI_CORE\WEBAPI_CORE\WEBAPI_CORE.Infrastructure.Identity\bin\Debug\netcoreapp3.1\WEBAPI_CORE.Domain.pdb
+C:\ProjetosPes\APICore\WEBAPI_CORE\WEBAPI_CORE\WEBAPI_CORE.Infrastructure.Identity\obj\Debug\netcoreapp3.1\WEBAPI_CORE.Infrastructure.Identity.csproj.AssemblyReference.cache
+C:\ProjetosPes\APICore\WEBAPI_CORE\WEBAPI_CORE\WEBAPI_CORE.Infrastructure.Identity\obj\Debug\netcoreapp3.1\WEBAPI_CORE.Infrastructure.Identity.AssemblyInfoInputs.cache
+C:\ProjetosPes\APICore\WEBAPI_CORE\WEBAPI_CORE\WEBAPI_CORE.Infrastructure.Identity\obj\Debug\netcoreapp3.1\WEBAPI_CORE.Infrastructure.Identity.AssemblyInfo.cs
+C:\ProjetosPes\APICore\WEBAPI_CORE\WEBAPI_CORE\WEBAPI_CORE.Infrastructure.Identity\obj\Debug\netcoreapp3.1\WEBAPI_CORE.Infrastructure.Identity.csproj.CoreCompileInputs.cache
+C:\ProjetosPes\APICore\WEBAPI_CORE\WEBAPI_CORE\WEBAPI_CORE.Infrastructure.Identity\obj\Debug\netcoreapp3.1\WEBAPI_CORE.Infrastructure.Identity.csproj.CopyComplete
+C:\ProjetosPes\APICore\WEBAPI_CORE\WEBAPI_CORE\WEBAPI_CORE.Infrastructure.Identity\obj\Debug\netcoreapp3.1\WEBAPI_CORE.Infrastructure.Identity.dll
+C:\ProjetosPes\APICore\WEBAPI_CORE\WEBAPI_CORE\WEBAPI_CORE.Infrastructure.Identity\obj\Debug\netcoreapp3.1\WEBAPI_CORE.Infrastructure.Identity.pdb
+C:\ProjetosPes\APICore\WEBAPI_CORE\WEBAPI_CORE\WEBAPI_CORE.Infrastructure.Identity\obj\Debug\netcoreapp3.1\WEBAPI_CORE.Infrastructure.Identity.genruntimeconfig.cache

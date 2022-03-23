@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WEBAPI_CORE.WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:WEBAPI_CORE.WebApi.Controllers.AccountController.AuthenticateAsync(WEBAPI_CORE.Application.DTOs.Account.AuthenticationRequest)">
+            <summary>
+            Metodo de autenticação por token gerado para usuários
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WEBAPI_CORE.WebApi.Controllers.AccountController.RegisterAsync(WEBAPI_CORE.Application.DTOs.Account.RegisterRequest)">
+            <summary>
+            Metodo para registrar usuário de acesso a API
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WEBAPI_CORE.WebApi.Controllers.AccountController.ConfirmEmailAsync(System.String,System.String)">
+            <summary>
+            Metodo para confirmação de email assim que for registrado novo usuário de acesso.
+            </summary>
+            <param name="userId"></param>
+            <param name="code"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WEBAPI_CORE.WebApi.Controllers.AccountController.ForgotPassword(WEBAPI_CORE.Application.DTOs.Account.ForgotPasswordRequest)">
+            <summary>
+            Metodo para recuperação de Senha de usuários.
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WEBAPI_CORE.WebApi.Controllers.AccountController.ResetPassword(WEBAPI_CORE.Application.DTOs.Account.ResetPasswordRequest)">
+            <summary>
+            Método para reset de senha dos usuários.
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WEBAPI_CORE.WebApi.Controllers.AccountController.GenerateIPAddress">
+            <summary>
+            Método para captura de IP do usuario para autenticação via Token
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WEBAPI_CORE.WebApi.Controllers.v1.FuncionarioController.Get(WEBAPI_CORE.Application.Features.Funcionarios.Queries.GetAllFuncionario.GetAllFuncionarioParameter)">
+            <summary>
+            Retornar todos os Funcionarios registrados passando os parametros de PageSize, PageNumber
+            </summary>
+            <param name="filter"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WEBAPI_CORE.WebApi.Controllers.v1.FuncionarioController.Get(System.Int32)">
+            <summary>
+            Retorna funcionario pelo ID 
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WEBAPI_CORE.WebApi.Controllers.v1.FuncionarioController.Post(WEBAPI_CORE.Application.Features.Funcionarios.Commands.CreateFuncionario.CreateFuncionarioCommand)">
+            <summary>
+            Insere o Funcionario na base conforme as informações dadas
+            </summary>
+            <param name="command"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WEBAPI_CORE.WebApi.Controllers.v1.FuncionarioController.Put(System.Int32,WEBAPI_CORE.Application.Features.Funcionarios.Commands.UpdateFuncionario.UpdateFuncionarioCommand)">
+            <summary>
+            Atualiza Funcionario com novas informações dadas, utilizando o ID
+            </summary>
+            <param name="id"></param>
+            <param name="command"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WEBAPI_CORE.WebApi.Controllers.v1.FuncionarioController.Delete(System.Int32)">
+            <summary>
+            Deleta Funcionario da base pelo ID fornecido
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

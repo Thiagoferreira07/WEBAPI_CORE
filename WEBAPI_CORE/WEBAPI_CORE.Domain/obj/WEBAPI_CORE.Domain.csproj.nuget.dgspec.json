@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\ProjetosPes\\APICore\\WEBAPI_CORE\\WEBAPI_CORE\\WEBAPI_CORE.Domain\\WEBAPI_CORE.Domain.csproj": {}
+  },
+  "projects": {
+    "C:\\ProjetosPes\\APICore\\WEBAPI_CORE\\WEBAPI_CORE\\WEBAPI_CORE.Domain\\WEBAPI_CORE.Domain.csproj": {
+      "version": "1.1.0",
+      "restore": {
+        "projectUniqueName": "C:\\ProjetosPes\\APICore\\WEBAPI_CORE\\WEBAPI_CORE\\WEBAPI_CORE.Domain\\WEBAPI_CORE.Domain.csproj",
+        "projectName": "WEBAPI_CORE.Domain",
+        "projectPath": "C:\\ProjetosPes\\APICore\\WEBAPI_CORE\\WEBAPI_CORE\\WEBAPI_CORE.Domain\\WEBAPI_CORE.Domain.csproj",
+        "packagesPath": "C:\\Users\\tferrere\\.nuget\\packages\\",
+        "outputPath": "C:\\ProjetosPes\\APICore\\WEBAPI_CORE\\WEBAPI_CORE\\WEBAPI_CORE.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tferrere\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nexus3.umaneplatform.com:8082/repository/Everis-BPO/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

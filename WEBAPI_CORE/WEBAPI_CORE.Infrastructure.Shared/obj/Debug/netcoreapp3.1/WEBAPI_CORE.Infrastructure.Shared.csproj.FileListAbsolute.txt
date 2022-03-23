@@ -1,0 +1,14 @@
+C:\ProjetosPes\APICore\WEBAPI_CORE\WEBAPI_CORE\WEBAPI_CORE.Infrastructure.Shared\bin\Debug\netcoreapp3.1\WEBAPI_CORE.Infrastructure.Shared.deps.json
+C:\ProjetosPes\APICore\WEBAPI_CORE\WEBAPI_CORE\WEBAPI_CORE.Infrastructure.Shared\bin\Debug\netcoreapp3.1\WEBAPI_CORE.Infrastructure.Shared.dll
+C:\ProjetosPes\APICore\WEBAPI_CORE\WEBAPI_CORE\WEBAPI_CORE.Infrastructure.Shared\bin\Debug\netcoreapp3.1\WEBAPI_CORE.Infrastructure.Shared.pdb
+C:\ProjetosPes\APICore\WEBAPI_CORE\WEBAPI_CORE\WEBAPI_CORE.Infrastructure.Shared\bin\Debug\netcoreapp3.1\WEBAPI_CORE.Application.dll
+C:\ProjetosPes\APICore\WEBAPI_CORE\WEBAPI_CORE\WEBAPI_CORE.Infrastructure.Shared\bin\Debug\netcoreapp3.1\WEBAPI_CORE.Domain.dll
+C:\ProjetosPes\APICore\WEBAPI_CORE\WEBAPI_CORE\WEBAPI_CORE.Infrastructure.Shared\bin\Debug\netcoreapp3.1\WEBAPI_CORE.Application.pdb
+C:\ProjetosPes\APICore\WEBAPI_CORE\WEBAPI_CORE\WEBAPI_CORE.Infrastructure.Shared\bin\Debug\netcoreapp3.1\WEBAPI_CORE.Domain.pdb
+C:\ProjetosPes\APICore\WEBAPI_CORE\WEBAPI_CORE\WEBAPI_CORE.Infrastructure.Shared\obj\Debug\netcoreapp3.1\WEBAPI_CORE.Infrastructure.Shared.csproj.AssemblyReference.cache
+C:\ProjetosPes\APICore\WEBAPI_CORE\WEBAPI_CORE\WEBAPI_CORE.Infrastructure.Shared\obj\Debug\netcoreapp3.1\WEBAPI_CORE.Infrastructure.Shared.AssemblyInfoInputs.cache
+C:\ProjetosPes\APICore\WEBAPI_CORE\WEBAPI_CORE\WEBAPI_CORE.Infrastructure.Shared\obj\Debug\netcoreapp3.1\WEBAPI_CORE.Infrastructure.Shared.AssemblyInfo.cs
+C:\ProjetosPes\APICore\WEBAPI_CORE\WEBAPI_CORE\WEBAPI_CORE.Infrastructure.Shared\obj\Debug\netcoreapp3.1\WEBAPI_CORE.Infrastructure.Shared.csproj.CoreCompileInputs.cache
+C:\ProjetosPes\APICore\WEBAPI_CORE\WEBAPI_CORE\WEBAPI_CORE.Infrastructure.Shared\obj\Debug\netcoreapp3.1\WEBAPI_CORE.Infrastructure.Shared.csproj.CopyComplete
+C:\ProjetosPes\APICore\WEBAPI_CORE\WEBAPI_CORE\WEBAPI_CORE.Infrastructure.Shared\obj\Debug\netcoreapp3.1\WEBAPI_CORE.Infrastructure.Shared.dll
+C:\ProjetosPes\APICore\WEBAPI_CORE\WEBAPI_CORE\WEBAPI_CORE.Infrastructure.Shared\obj\Debug\netcoreapp3.1\WEBAPI_CORE.Infrastructure.Shared.pdb

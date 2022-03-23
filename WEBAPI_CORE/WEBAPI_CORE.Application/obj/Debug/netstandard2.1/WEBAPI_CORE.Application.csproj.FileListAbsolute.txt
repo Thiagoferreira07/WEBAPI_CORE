@@ -1,0 +1,12 @@
+C:\ProjetosPes\APICore\WEBAPI_CORE\WEBAPI_CORE\WEBAPI_CORE.Application\bin\Debug\netstandard2.1\WEBAPI_CORE.Application.deps.json
+C:\ProjetosPes\APICore\WEBAPI_CORE\WEBAPI_CORE\WEBAPI_CORE.Application\bin\Debug\netstandard2.1\WEBAPI_CORE.Application.dll
+C:\ProjetosPes\APICore\WEBAPI_CORE\WEBAPI_CORE\WEBAPI_CORE.Application\bin\Debug\netstandard2.1\WEBAPI_CORE.Application.pdb
+C:\ProjetosPes\APICore\WEBAPI_CORE\WEBAPI_CORE\WEBAPI_CORE.Application\bin\Debug\netstandard2.1\WEBAPI_CORE.Domain.dll
+C:\ProjetosPes\APICore\WEBAPI_CORE\WEBAPI_CORE\WEBAPI_CORE.Application\bin\Debug\netstandard2.1\WEBAPI_CORE.Domain.pdb
+C:\ProjetosPes\APICore\WEBAPI_CORE\WEBAPI_CORE\WEBAPI_CORE.Application\obj\Debug\netstandard2.1\WEBAPI_CORE.Application.csproj.AssemblyReference.cache
+C:\ProjetosPes\APICore\WEBAPI_CORE\WEBAPI_CORE\WEBAPI_CORE.Application\obj\Debug\netstandard2.1\WEBAPI_CORE.Application.AssemblyInfoInputs.cache
+C:\ProjetosPes\APICore\WEBAPI_CORE\WEBAPI_CORE\WEBAPI_CORE.Application\obj\Debug\netstandard2.1\WEBAPI_CORE.Application.AssemblyInfo.cs
+C:\ProjetosPes\APICore\WEBAPI_CORE\WEBAPI_CORE\WEBAPI_CORE.Application\obj\Debug\netstandard2.1\WEBAPI_CORE.Application.csproj.CoreCompileInputs.cache
+C:\ProjetosPes\APICore\WEBAPI_CORE\WEBAPI_CORE\WEBAPI_CORE.Application\obj\Debug\netstandard2.1\WEBAPI_CORE.Application.csproj.CopyComplete
+C:\ProjetosPes\APICore\WEBAPI_CORE\WEBAPI_CORE\WEBAPI_CORE.Application\obj\Debug\netstandard2.1\WEBAPI_CORE.Application.dll
+C:\ProjetosPes\APICore\WEBAPI_CORE\WEBAPI_CORE\WEBAPI_CORE.Application\obj\Debug\netstandard2.1\WEBAPI_CORE.Application.pdb
